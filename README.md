@@ -6,4 +6,4 @@
 #### ----------------------------
 
 ##### 實際遊玩:
-![image](https://github.com/hjyforEE/Computer-Science_Final-Project/blob/main/alpha_test.gif)
+![image]([https://github.com/hjyforEE/Computer-Science_Final-Project/blob/main/alpha_test.gif](https://github.com/hjyforEE/Computer-Science_Final-Project/blob/main/%E9%8C%84%E8%A3%BD%E5%85%A7%E5%AE%B9%202025-06-15%20004624.mp4))
