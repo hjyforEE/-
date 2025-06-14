@@ -1,3 +1,1 @@
-# TetrisInMomochromic_單色版俄羅斯方塊
-
-
+# TetrisInMomochromic_基於陣列邏輯之單色版俄羅斯方塊
