@@ -6,4 +6,4 @@
 #### ----------------------------
 
 ##### 實際遊玩:
-![image](https://github.com/hjyforEE/Computer-Science_Final-Project/blob/main/dmq2m-fkzhu.gif)
+![image](https://github.com/hjyforEE/Computer-Science_Final-Project/blob/main/dmq2m-fkzhu.gif) 轉gif後碼率偏低敬請見諒
