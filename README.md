@@ -1,1 +1,2 @@
 # TetrisInMomochromic_基於陣列邏輯之單色版俄羅斯方塊
+可運行於meshtasic(ESP32+oled)、CRTviewfinder等可攜式單色顯示裝置，不受多彩顯示之限制。
